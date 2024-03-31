@@ -1,0 +1,82 @@
+[
+    {
+    "userID": "u-1",
+    "displayName": "Jone",
+    "picture": "https://i.pinimg.com/originals/dd/d6/dd/ddd6dd1c68e3d5f669851a84f7f16863.jpg",
+    "score": 157000,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-2",
+    "displayName": "Victoria",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcgek0GeAJr8xQku9DBKThhDiyhcgCspaqSYoiPQQIw&s",
+    "score": 46200,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-3",
+    "displayName": "Joy",
+    "picture": "https://imagezila.com/wp-content/uploads/2023/10/free-fire-dp-6.jpeg",
+    "score": 38800,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-4",
+    "displayName": "Quinn",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTucnicK-h81C6c1rSL4kwF4Fwt_lGtLpHCwjSUf4iPg&s",
+    "score": 33400,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-5",
+    "displayName": "Sheenalo", 
+    "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6zobrMvRGYeLWML4RRgCoeUnEQQNYvlKCIZcVaAioUUYI2EsIbBh7qQcfMAoXgQfZlx8&usqp=CAU",
+    "score": 31600,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-6",
+    "displayName": "Charlene", 
+    "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_QiovK77dvNeyUMk9avkFY1JnpOqa1i1UPH_I6Srqw&s",
+    "score": 30800,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-7",
+    "displayName": "LeonaBaby", 
+    "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRriEXWaolxEQ-H251JLnfQP0--wGhjtFCATKSP-udCw&s",
+    "score": 22300,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-8",
+    "displayName": "Sunny",
+    "picture": "https://turnmeinto.com/cdn/shop/products/image_96cd6fda-620c-4cfa-9c32-0142abb5c833_800x.png?v=1643978181",
+    "score": 17800,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-9",
+    "displayName": "ImWord",
+    "picture": "https://img.freepik.com/premium-vector/cute-panda-gaming-illustration-animal-game-flat-cartoon-style_138676-1164.jpg?w=360",
+    "score": 17300,
+    "lastScore": 0,
+    "translateY": 0
+    },
+    {
+    "userID": "u-10",
+    "displayName": "Dophine",
+    "picture": "https://www.imagella.com/cdn/shop/products/2a5b7e7db9d67171231404b5db78837f.jpg?v=1707663599&width=300",
+    "score": 15400,
+    "lastScore": 0,
+    "translateY": 0
+    }
+    ]
